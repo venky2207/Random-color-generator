@@ -43,7 +43,7 @@ button{
 @media screen and (max-width:450px){
   body{
     text-align: center;
-    margin-top: 256px;
+    margin-top: 156px;
   }
  #hex{
   margin-left: 25px;
