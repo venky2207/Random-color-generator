@@ -43,10 +43,10 @@ button{
 @media screen and (max-width:450px){
   body{
     text-align: center;
-    margin-top: 356px;
+    margin-top: 156px;
   }
  #hex{
-  margin-left: 15px;
+  margin-left: 10px;
   border: 0px solid;
   background-color: black;
   color: white;
